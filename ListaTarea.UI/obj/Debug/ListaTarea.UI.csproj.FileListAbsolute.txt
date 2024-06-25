@@ -1,0 +1,17 @@
+C:\Users\chris\Desktop\Proyectos_Csharp\Lista-Tareas\ListaTarea.UI\bin\Debug\ListaTarea.UI.exe.config
+C:\Users\chris\Desktop\Proyectos_Csharp\Lista-Tareas\ListaTarea.UI\bin\Debug\ListaTarea.UI.exe
+C:\Users\chris\Desktop\Proyectos_Csharp\Lista-Tareas\ListaTarea.UI\bin\Debug\ListaTarea.UI.pdb
+C:\Users\chris\Desktop\Proyectos_Csharp\Lista-Tareas\ListaTarea.UI\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\chris\Desktop\Proyectos_Csharp\Lista-Tareas\ListaTarea.UI\bin\Debug\ListaTarea.BL.dll
+C:\Users\chris\Desktop\Proyectos_Csharp\Lista-Tareas\ListaTarea.UI\bin\Debug\ListaTarea.DAL.dll
+C:\Users\chris\Desktop\Proyectos_Csharp\Lista-Tareas\ListaTarea.UI\bin\Debug\ListaTarea.BL.pdb
+C:\Users\chris\Desktop\Proyectos_Csharp\Lista-Tareas\ListaTarea.UI\bin\Debug\ListaTarea.DAL.pdb
+C:\Users\chris\Desktop\Proyectos_Csharp\Lista-Tareas\ListaTarea.UI\obj\Debug\ListaTarea.UI.csproj.AssemblyReference.cache
+C:\Users\chris\Desktop\Proyectos_Csharp\Lista-Tareas\ListaTarea.UI\obj\Debug\ListaTarea.UI.Properties.Resources.resources
+C:\Users\chris\Desktop\Proyectos_Csharp\Lista-Tareas\ListaTarea.UI\obj\Debug\ListaTarea.UI.csproj.GenerateResource.cache
+C:\Users\chris\Desktop\Proyectos_Csharp\Lista-Tareas\ListaTarea.UI\obj\Debug\ListaTarea.UI.csproj.CoreCompileInputs.cache
+C:\Users\chris\Desktop\Proyectos_Csharp\Lista-Tareas\ListaTarea.UI\obj\Debug\ListaTar.4B28CB09.Up2Date
+C:\Users\chris\Desktop\Proyectos_Csharp\Lista-Tareas\ListaTarea.UI\obj\Debug\ListaTarea.UI.exe
+C:\Users\chris\Desktop\Proyectos_Csharp\Lista-Tareas\ListaTarea.UI\obj\Debug\ListaTarea.UI.pdb
+C:\Users\chris\Desktop\Proyectos_Csharp\Lista-Tareas\ListaTarea.UI\obj\Debug\ListaTarea.UI.Listado.resources
+C:\Users\chris\Desktop\Proyectos_Csharp\Lista-Tareas\ListaTarea.UI\obj\Debug\ListaTarea.UI.EditarTareaForm.resources

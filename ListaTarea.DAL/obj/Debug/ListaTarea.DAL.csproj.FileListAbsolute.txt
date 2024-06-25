@@ -1,0 +1,9 @@
+C:\Users\chris\Desktop\Proyectos_Csharp\Lista-Tareas\ListaTarea.DAL\bin\Debug\ListaTarea.DAL.dll
+C:\Users\chris\Desktop\Proyectos_Csharp\Lista-Tareas\ListaTarea.DAL\bin\Debug\ListaTarea.DAL.pdb
+C:\Users\chris\Desktop\Proyectos_Csharp\Lista-Tareas\ListaTarea.DAL\bin\Debug\System.Data.SqlClient.dll
+C:\Users\chris\Desktop\Proyectos_Csharp\Lista-Tareas\ListaTarea.DAL\bin\Debug\System.Data.SqlClient.xml
+C:\Users\chris\Desktop\Proyectos_Csharp\Lista-Tareas\ListaTarea.DAL\obj\Debug\ListaTarea.DAL.csproj.AssemblyReference.cache
+C:\Users\chris\Desktop\Proyectos_Csharp\Lista-Tareas\ListaTarea.DAL\obj\Debug\ListaTarea.DAL.csproj.CoreCompileInputs.cache
+C:\Users\chris\Desktop\Proyectos_Csharp\Lista-Tareas\ListaTarea.DAL\obj\Debug\ListaTar.D38932C5.Up2Date
+C:\Users\chris\Desktop\Proyectos_Csharp\Lista-Tareas\ListaTarea.DAL\obj\Debug\ListaTarea.DAL.dll
+C:\Users\chris\Desktop\Proyectos_Csharp\Lista-Tareas\ListaTarea.DAL\obj\Debug\ListaTarea.DAL.pdb
